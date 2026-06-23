@@ -8,7 +8,7 @@ projects on real Kaggle datasets.
 
 | Folder | What's inside |
 |--------|---------------|
-| [`projects/`](./projects) | End-to-end, documented projects on real datasets |
+| [`projects/`](./Projects) | End-to-end, documented projects on real datasets |
 | [`notebooks/`](./notebooks) | Learning exercises and algorithm implementations |
 | [`datasets/`](./datasets) | Dataset sources, licenses, and download instructions |
 
